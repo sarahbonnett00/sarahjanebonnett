@@ -1,0 +1,36 @@
+#myBtn {
+        position: fixed;
+        bottom: 10px;
+        float: right;
+        right: 18.5%;
+        left: 77.25%;
+        max-width: 30px;
+        width: 100%;
+        font-size: 12px;
+        border-color: rgba(85, 85, 85, 0.2);
+        background-color: rgb(100,100,100);
+        padding: .5px;
+        border-radius: 4px;
+    
+    }
+    
+    /*On Hover Color Change*/
+    #myBtn:hover {
+        background-color: hsl(71, 62%, 85%);
+    }
+
+    .topnav {
+            background-color: rgb(240, 224, 134);
+            overflow: hidden;
+            border-style: outset;
+        }
+       
+        /* Style the links inside the navigation bar */
+            .topnav a {
+        float: right;
+        color: black ;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        }
